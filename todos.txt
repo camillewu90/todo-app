@@ -1,5 +1,3 @@
+buy
+clean
 shower
-mop
-scrub
-cook
-cooking

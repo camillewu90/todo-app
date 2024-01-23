@@ -1,7 +1,7 @@
 FILEPATH = 'todos.txt'
 
 
-def read_todos(filename= FILEPATH):
+def read_todos(filename=FILEPATH):
     """ Read a text file and return the list of
     to-do items
     """
@@ -10,7 +10,7 @@ def read_todos(filename= FILEPATH):
     return todos
 
 
-def write_todos(content, filename= FILEPATH):
+def write_todos(content, filename=FILEPATH):
     """ Write the to-do items list in the text file.
     :param content:
     :param filename:
